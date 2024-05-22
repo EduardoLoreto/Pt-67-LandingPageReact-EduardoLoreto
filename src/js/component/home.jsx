@@ -21,7 +21,7 @@ const Home = () => {
 					<Jumbotron/>
 				</div>
 
-				<div className="row-fluid container-fluid justify-content-center text-center d-flex gap-5 mt-2 mb-2 col-lg-12 col-md-12 col-sm-12">
+				<div className="row container-fluid justify-content-center d-flex gap-5 mt-2 mb-2 col-lg-12 col-md-12 col-sm-12">
 					<Card/>
 					<Card/>
 					<Card/>
